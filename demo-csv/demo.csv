@@ -1,0 +1,2 @@
+user_name,product_name,order_created,product_image,state,country,product_url
+Example user, Sample product, 3 Minutes , http://example.com/images/sampleproduct.jpg, New delhi, India, https://www.example.com/myproduct1
